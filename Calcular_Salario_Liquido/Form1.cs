@@ -41,9 +41,6 @@ namespace Calcular_Salario_Liquido
 
             lista.Add(new ClassListaCalculos(nome, slb, outros_desc, dep, inss, irrf, sll));
 
-
-        
-
         }
 
         private void button1_Click(object sender, EventArgs e)
